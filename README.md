@@ -1,4 +1,4 @@
-## [Project Izanami ](https://https://demo.themesberg.com/landwind/)
+## [Project Izanami ](https://ssamideveloper.github.io/project-izanami/)
 
 <a href="https://https://demo.themesberg.com/landwind/" rel="Tailwind CSS Landing Page">![Tailwind CSS Landing Page Demo - Flowbite](https://themesberg.s3.us-east-2.amazonaws.com/public/github/landwind/thumbnail.png)</a>
 
