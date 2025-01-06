@@ -550,9 +550,38 @@ select {
 }
 
 
+.icons-space {
+    margin-right: 60px;
+
+}
+
+.button-space {
+    margin-right: 10px;
+}
+
+.button-android  {
+    background-color: #16a34a; /* Green-600 */
+    color: white;
+    padding: 12px 24px;
+    border-radius: 8px;
+    font-size: 16px;
+    font-weight: 600;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+.button-android:hover {
+    background-color: #15803d; /* Green-700 */
+    transform: scale(1.05);
+}
+
+
+
   .discord-button {
-        background-color: #7289da; /* Discord blue */
+        background-color: #000; /* Discord blue */
         color: white;
+        font-size: 16px;
         padding: 10px 20px;
         border-radius: 8px;
         font-weight: bold;
@@ -561,8 +590,19 @@ select {
         transition: background-color 0.3s ease, transform 0.2s ease;
     }
 
+    .discord-button svg {
+        margin-right: 10px;
+    }
+
+    .discord-button svg {
+        transition: fill 0.3s ease; /* Smooth fill transition */
+        fill: currentColor; /* Set the SVG icon's fill to match the button's text color */
+    }
+
+
+
     .discord-button:hover {
-        background-color: #6b7b9f; /* Darker shade on hover */
+        background-color: #333333; /* Darker shade on hover */
         transform: scale(1.05); /* Slight scaling effect */
     }
 
